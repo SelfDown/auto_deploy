@@ -1,0 +1,5 @@
+{
+	"upload_url":"http://127.0.0.1:8000/auto/upload",
+	"deploy_url":"http://127.0.0.1:8000/auto/deploy",
+	"file_name":"./zip/dist.zip"
+}
