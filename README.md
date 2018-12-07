@@ -6,9 +6,13 @@
 
 目录结构
 
-***.zip
-   dist
+ ***.zip
+   
+   
+    dist  
+      
       static
+      
       index.html
       
       
